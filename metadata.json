@@ -1,0 +1,6 @@
+{
+  "name": "Minimal Developer Portfolio",
+  "description": "A minimal aesthetic dark-themed developer portfolio single-page application built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
